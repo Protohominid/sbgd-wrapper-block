@@ -2,10 +2,10 @@
 /**
  * Plugin Name: SBGD Wrapper Block
  * Plugin URI: https://github.com/ahmadawais/create-guten-block/
- * Description: Adds a Gutenberg wrapper block that creates an unstyled div tag. Created using 'Create Gutenberg Block' template.
+ * Description: Adds a Gutenberg wrapper block that creates an unstyled container. Created using 'Create Gutenberg Block' template.
  * Author: Shawn Beelman Graphic Design
  * Author URI: https://shawnbeelman.com/
- * Version: 1.1.3
+ * Version: 1.1.4
  * License: GPL2+
  * License URI: https://www.gnu.org/licenses/gpl-2.0.txt
  *

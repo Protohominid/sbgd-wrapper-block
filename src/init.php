@@ -29,7 +29,7 @@ function sbgd_wrapper_block_assets() { // phpcs:ignore
 	);
 }
 
-// Hook: Frontend assets.
+// Hook: Frontend assets. No styles needed for the front end, so this is disabled.
 #add_action( 'enqueue_block_assets', 'sbgd_wrapper_block_assets' );
 
 /**
