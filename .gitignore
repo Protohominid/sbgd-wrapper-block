@@ -1,3 +1,7 @@
+.editorconfig
+.eslintignore
+.eslintrc.json
+CHANGELOG.md
 node_modules
 packages
 package-lock.json
