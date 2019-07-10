@@ -3,7 +3,7 @@ Contributors: protohominid, mrahmadawais
 Donate link: https://paypal.me/shawnb
 Tags: gutenberg, gutenberg blocks, blocks, wrapper block
 Requires at least: 4.6
-Tested up to: 5.1.1
+Tested up to: 5.2.2
 Stable tag: 1.1.6
 Requires PHP: 5.2.4
 License: GPLv2 or later
@@ -30,3 +30,6 @@ How to install the plugin and get it working:
 
 = 1.1.4 =
 * First release
+
+= 1.1.6 =
+* File cleanup
